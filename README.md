@@ -1,0 +1,1 @@
+# Projeto desenvolvido durante o curso de "Django: templates e boas práticas"
